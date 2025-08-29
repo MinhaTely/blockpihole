@@ -88405,3 +88405,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 recargasboxstream.com
 0.0.0.0 lojaroxa.shop
 0.0.0.0 multicanais.organic
+0.0.0.0 https://danielgarcialeiloeiro.org/home/
