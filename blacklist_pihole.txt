@@ -88953,3 +88953,15 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 topflixtv.sbs
 0.0.0.0 oficialgoldcardtv.com.br
 0.0.0.0 tvshow.net.br
+0.0.0.0 limontorrents.vip
+0.0.0.0 netcine2.lat
+0.0.0.0 seriesflixtv2.click
+0.0.0.0 seuseriado.fit
+0.0.0.0 superflix.buzz
+0.0.0.0 superflix15.lol
+0.0.0.0 superflixbr2.lol
+0.0.0.0 netcine4.lat
+0.0.0.0 megaflix1.lol
+0.0.0.0 multicanaishd.cfd
+0.0.0.0 netcine3.lat
+0.0.0.0 dubladosfilmestorrent.pro
