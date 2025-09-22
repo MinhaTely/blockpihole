@@ -33728,3 +33728,9 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 wg-lotus.com
 0.0.0.0 rastreamentocorreios-nine.vercel.app
 0.0.0.0 https://rastreamentocorreios-nine.vercel.app
+0.0.0.0 business.akrdinfo.cn
+0.0.0.0 lb3.solanc.online
+0.0.0.0 voice.bluebell008.xyz
+0.0.0.0 zbvhdm.3tsmjcikv.com
+0.0.0.0 8b1b37fri.girjycomp.com
+0.0.0.0 740.soiptv.xyz
