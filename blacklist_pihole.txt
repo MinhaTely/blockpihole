@@ -34523,3 +34523,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 892shdhh2ga.wobisohulacavap.info
 0.0.0.0 w5q9r3k7.tofecefemicig.info
 0.0.0.0 wrdxfrwassf.wobisohulacavap.info
+0.0.0.0 brasilcooperado.org
