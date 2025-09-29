@@ -34590,7 +34590,8 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-6057846715.googleapis.com.pt
 0.0.0.0 cloud-usa-user76689866-sv02-stream.s27-usa-cloudfront-net.online
 0.0.0.0 futemaxhd.life
-0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-4804258030.googleapis.com.ptbeautifulpeople.goodcdn.cfd
+0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-4804258030.googleapis.com.pt
+0.0.0.0 beautifulpeople.goodcdn.cfd
 0.0.0.0 beautifulpeople.kettocdn.cyou
 0.0.0.0 beautifulpeople.stopcdn.cfd
 0.0.0.0 www.embed-3.icu
