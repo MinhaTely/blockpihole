@@ -36209,3 +36209,12 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 m.okbet.casino
 0.0.0.0 urso-777.com
 0.0.0.0 l1je2zh.com
+0.0.0.0 netcine0.lat
+0.0.0.0 seriesflix.cool
+0.0.0.0 superflixhd.sbs
+0.0.0.0 canaistop.xyz
+0.0.0.0 nettcinelat
+0.0.0.0 seuseriados.org
+0.0.0.0 baixefilmestorrent.org
+0.0.0.0 megaflix10.com
+0.0.0.0 xilftenhd.app
