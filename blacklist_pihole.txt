@@ -36242,7 +36242,8 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 dm2-usa-cloud-cdn-user40028922.s27-usa-cloudfront-net.online
 0.0.0.0 multicanaishd.life
 0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-4118340790.googleapis.com.pt
-0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-5529168122.googleapis.com.pta3b4c5d6.tuwosolomufohabi.info
+0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-5529168122.googleapis.com.pt
+0.0.0.0 a3b4c5d6.tuwosolomufohabi.info
 0.0.0.0 f4sdsr33s.tuwosolomufohabi.info
 0.0.0.0 892shdhh2ga.lovotenorisur.info
 0.0.0.0 t4p8r2w6.bebenanebobipar.online
