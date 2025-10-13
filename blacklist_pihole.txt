@@ -36234,7 +36234,8 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 futemax.autos
 0.0.0.0 futemaxhd.me
 0.0.0.0 futemax.rsvp
-0.0.0.0 02.xn--l8jua5ac2bc5dn7sycsa3302h.art01.xn--l8jua5ac2bc5dn7sycsa3302h.art
+0.0.0.0 02.xn--l8jua5ac2bc5dn7sycsa3302h.art
+0.0.0.0 01.xn--l8jua5ac2bc5dn7sycsa3302h.art
 0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-2762595712.googleapis.com.pt
 0.0.0.0 dm2-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online
 0.0.0.0 embedflix.one
