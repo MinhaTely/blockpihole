@@ -36269,7 +36269,8 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 futemaxhd.run
 0.0.0.0 01.xn--n8jubh9cvb4698ahpj5o0evfinso.art
 0.0.0.0 02.xn--n8jubh9cvb4698ahpj5o0evfinso.art
-0.0.0.0 futemaxhd.lolfutemaxhd.eu
+0.0.0.0 futemaxhd.lol
+0.0.0.0 futemaxhd.eu
 0.0.0.0 sinalpublico.eu
 0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-1549439108.googleapis.com.pt
 0.0.0.0 outbound-proxy-us-east1-0-glob-usercontent-client-id-7816992577.googleapis.com.pt
