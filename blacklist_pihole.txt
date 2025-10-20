@@ -37350,3 +37350,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 https://www.skidrow-games.com/
 0.0.0.0 https://www.skidrowreloaded.com/
 0.0.0.0 https://torgamez.com/
+0.0.0.0 megaflix.ltd
