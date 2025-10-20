@@ -37337,3 +37337,16 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 megafilmeshd50.click
 0.0.0.0 starhome.bar
 0.0.0.0 topflix.app.br
+0.0.0.0 https://anygame.net/
+0.0.0.0 https://dodi-repacks.site/
+0.0.0.0 https://elamigos.site/
+0.0.0.0 https://elamigosedition.com/
+0.0.0.0 https://www.elamigosgames.org/
+0.0.0.0 https://fitgirl-repacks.site/
+0.0.0.0 https://game3rb.com/
+0.0.0.0 https://igg-games.com/
+0.0.0.0 https://www.ovagames.com/
+0.0.0.0 https://www.skidrowcodex.net/
+0.0.0.0 https://www.skidrow-games.com/
+0.0.0.0 https://www.skidrowreloaded.com/
+0.0.0.0 https://torgamez.com/
