@@ -37967,3 +37967,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 echotvoficial.com
 0.0.0.0 mundoathomics.com
 0.0.0.0 receiver-software.com
+0.0.0.0 https://shopcardesmanche.com
