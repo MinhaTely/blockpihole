@@ -37957,3 +37957,13 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 multicanais.vu
 0.0.0.0 multicanaisw.lat
 0.0.0.0 topflixhd.lat
+0.0.0.0 mio-tvplus.com
+0.0.0.0 prosharecodes.com
+0.0.0.0 showtvoficial.com
+0.0.0.0 artemiscodigos.com
+0.0.0.0 visionsat.blog
+0.0.0.0 eaitv.com
+0.0.0.0 onflowgo.me
+0.0.0.0 echotvoficial.com
+0.0.0.0 mundoathomics.com
+0.0.0.0 receiver-software.com
