@@ -39070,3 +39070,17 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 dunatvrecarga.store
 0.0.0.0 youcineto.com
 0.0.0.0 pobreflix.boats
+0.0.0.0 https://reinodovaporoficial.com
+0.0.0.0 https://reinodovaporofc.com
+0.0.0.0 https://reinodovapor.com
+0.0.0.0 https://playvaper.catalog.kyte.com
+0.0.0.0 https://reinodovapor.com
+0.0.0.0 https://reinodovaporoficial.com
+0.0.0.0 https://sacivape.com
+0.0.0.0 https://tabacosbr.com
+0.0.0.0 https://tudovape.com
+0.0.0.0 https://universodovapor.com
+0.0.0.0 https://vapeinga.com
+0.0.0.0 https://www.vapeinga.club
+0.0.0.0 https://vapelandbr.com
+0.0.0.0 https://onpuffs.net
