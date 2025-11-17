@@ -40090,5 +40090,5 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 w1-aloeverapg.com
 0.0.0.0 pgvamos3.com
 0.0.0.0 corgipg.cyou
-0.0.0.0 Bet5g.cc
+0.0.0.0 bet5g.cc
 0.0.0.0 bet5g.in
