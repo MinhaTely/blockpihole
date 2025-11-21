@@ -40472,3 +40472,5 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 appgoldcardtv.online
 0.0.0.0 blinkstore.com.br
 0.0.0.0 connectaplus.tech
+0.0.0.0 www.superabuuu.com
+0.0.0.0 sorteiosjusti.com.br
