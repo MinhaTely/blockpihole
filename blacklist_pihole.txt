@@ -2012,7 +2012,6 @@
 0.0.0.0 1992bet.com
 0.0.0.0 1992gyn.me
 0.0.0.0 1993.bet
-0.0.0.0 1993bet.com
 0.0.0.0 1993bet.vip
 0.0.0.0 1994bet.com
 0.0.0.0 1994bet.vip
@@ -3559,7 +3558,6 @@
 0.0.0.0 444.com
 0.0.0.0 4444br.com
 0.0.0.0 4444fox.com
-0.0.0.0 4444king.com
 0.0.0.0 4444win.club
 0.0.0.0 4444win.win
 0.0.0.0 4444win11.com
@@ -7217,7 +7215,6 @@
 0.0.0.0 9ddbet.com
 0.0.0.0 9epg6.com
 0.0.0.0 9f.casino
-0.0.0.0 9f.com
 0.0.0.0 9fb.com
 0.0.0.0 9fb3.com
 0.0.0.0 9fkkk.cc
@@ -7659,7 +7656,6 @@
 0.0.0.0 afpecs.ddns.net
 0.0.0.0 afribet.ng
 0.0.0.0 afun.br.com
-0.0.0.0 afun.com
 0.0.0.0 afun.game
 0.0.0.0 afun.gold
 0.0.0.0 afunbr6.com
@@ -8679,7 +8675,6 @@
 0.0.0.0 bb345678.com
 0.0.0.0 bb361.cc
 0.0.0.0 bb789bet.com
-0.0.0.0 bbajogo.com
 0.0.0.0 bbb-883.com
 0.0.0.0 bbb.fm
 0.0.0.0 bbb.mom
@@ -9992,7 +9987,6 @@
 0.0.0.0 br458.xyz
 0.0.0.0 br4bet.com
 0.0.0.0 br550.com
-0.0.0.0 br678.com
 0.0.0.0 br68.com
 0.0.0.0 br6m.com
 0.0.0.0 br77.us
@@ -11942,7 +11936,6 @@
 0.0.0.0 cwrcs.zapto.org
 0.0.0.0 cwypg.com
 0.0.0.0 cxjvlpuyf.com
-0.0.0.0 cxxbet.com
 0.0.0.0 cxypg.com
 0.0.0.0 cyanpg.com
 0.0.0.0 cybersportsclub.com
@@ -15032,7 +15025,6 @@
 0.0.0.0 hostingons1.xyz
 0.0.0.0 hostipcs.ddns.net
 0.0.0.0 hot777.cc
-0.0.0.0 hot777.com
 0.0.0.0 hot777e.cc
 0.0.0.0 hot777pro.vip
 0.0.0.0 hot777pwa.com
@@ -15308,7 +15300,6 @@
 0.0.0.0 ira777.cc
 0.0.0.0 ira777.com
 0.0.0.0 iradymevo.com
-0.0.0.0 iribet.com
 0.0.0.0 irmasmk.com
 0.0.0.0 isacs.ddns.net
 0.0.0.0 iscliente.xyz
@@ -18424,7 +18415,6 @@
 0.0.0.0 nilsatcs.ddns.net
 0.0.0.0 nine9bet.com
 0.0.0.0 nine9casino.com
-0.0.0.0 ninecasino.com
 0.0.0.0 ninety.sbs
 0.0.0.0 ninivewilolicose.online
 0.0.0.0 ninja.dyndns.tv
@@ -25428,7 +25418,6 @@
 0.0.0.0 x18.casino
 0.0.0.0 x19.casino
 0.0.0.0 x1fortbet.net
-0.0.0.0 x1jogo.com
 0.0.0.0 x1tech.com.br
 0.0.0.0 x2.appdomain1.info
 0.0.0.0 x2.hostinggonemores8.com
