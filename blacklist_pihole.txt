@@ -40499,3 +40499,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 futemaxhd.fit
 0.0.0.0 w9x0y1z2.runehadaluribus.info
 0.0.0.0 q3w7p1k9.gugurucefiwin.info
+0.0.0.0 https://fintykids.com
+0.0.0.0 https://promorin.com
+0.0.0.0 https://vermontco.com.br
+0.0.0.0 https://fiordi.com.br
