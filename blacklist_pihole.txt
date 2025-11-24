@@ -41043,7 +41043,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 sistemadp.com
 0.0.0.0 pIataformabarata.com
 0.0.0.0 assistadireto.online
-0.0.0.0 acesso<vcom
+0.0.0.0 acessoty.com
 0.0.0.0 flextaif.com
 0.0.0.0 onlyflixx.com.br
 0.0.0.0 baratinho.online
