@@ -43288,3 +43288,15 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 milagre777.com
 0.0.0.0 amgpg.com
 0.0.0.0 818p2.com
+0.0.0.0 multicanaisw.lat
+0.0.0.0 multicanaishd.at
+0.0.0.0 xtorrents.org
+0.0.0.0 thepiratefilmesflix.com
+0.0.0.0 utorrentfilmes.com
+0.0.0.0 netcinev1.lat
+0.0.0.0 netcinev2.lat
+0.0.0.0 superflixpro.me
+0.0.0.0 netcine1.lat
+0.0.0.0 seriesflix.golf
+0.0.0.0 multicanaishd.ink
+0.0.0.0 netccine.lat
