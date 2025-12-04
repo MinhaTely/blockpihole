@@ -43897,3 +43897,5 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 ddbank.click
 0.0.0.0 xdeck1.cc
 0.0.0.0 download.vg
+0.0.0.0 https://anroll.net
+0.0.0.0 https://animesroll.com
