@@ -44453,3 +44453,5 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 torrentdosfilmes1.net
 0.0.0.0 netcinegx.lat
 0.0.0.0 netcinehx.lat
+0.0.0.0 https://leiloeirodanielgarcia.com/
+0.0.0.0 https://danielgarcialeiloesoficiais.com/inicio/
