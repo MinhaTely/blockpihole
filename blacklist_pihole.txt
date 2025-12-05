@@ -44660,3 +44660,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 tapiocapg.bet
 0.0.0.0 voy-hawthornpg.com
 0.0.0.0 diadascriançaspg.com
+0.0.0.0 http://hinatasoul.com
+0.0.0.0 http://hinatasoul.net
+0.0.0.0 http://anitube.vip
