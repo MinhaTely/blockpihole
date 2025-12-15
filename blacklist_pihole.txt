@@ -31079,8 +31079,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 superflix.cyou
 0.0.0.0 resource.be100b.club
 0.0.0.0 ruk8hdgt1.97akldfnj.com
-0.0.0.0 d2xqii-cdn-settings.appsflyersdk.com
-0.0.0.0 d2xqii-launches.appsflyersdk.com
 0.0.0.0 jxn1m28d.5b26y83h.com
 0.0.0.0 u77yi6ew.5b26y83h.com
 0.0.0.0 r4x1i9o4.bgtvbr54.com
@@ -40305,7 +40303,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 heartbeat.dnsyc.top
 0.0.0.0 launcher.imgcloud.xyz
 0.0.0.0 eu1-spiky.clevertap-prod.com
-0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 tkpf.c7ri40xk.com
 0.0.0.0 obsqk.xgxx0s.xyz
 0.0.0.0 plugondigital.com
