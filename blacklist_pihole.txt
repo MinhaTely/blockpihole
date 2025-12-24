@@ -45476,3 +45476,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 netcinek4.lat
 0.0.0.0 seriesonline.stream
 0.0.0.0 www.borafama.com
+0.0.0.0 borafama.com
