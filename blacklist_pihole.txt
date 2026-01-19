@@ -67704,3 +67704,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 cargasplayrec.com
 0.0.0.0 recargayoucine.store
 0.0.0.0 youcine.cloud
+0.0.0.0 https://www.mundodoscharutos.com
