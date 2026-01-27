@@ -68102,3 +68102,14 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 youcine.co.za
 0.0.0.0 youcinebaixar.net
 0.0.0.0 youcineplanos.shop
+0.0.0.0 assistir.biz
+0.0.0.0 supernaturalonline.net
+0.0.0.0 vipcanais.com
+0.0.0.0 seriesflixhd.one
+0.0.0.0 superflixapi.bond
+0.0.0.0 superflix25.lol
+0.0.0.0 megaflix.bio.link
+0.0.0.0 prisonbreakonline.net
+0.0.0.0 bluefilmestorrent.online
+0.0.0.0 multicanaishd.boats
+0.0.0.0 netcinegb.lat
