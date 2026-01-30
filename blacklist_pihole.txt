@@ -68113,3 +68113,15 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 bluefilmestorrent.online
 0.0.0.0 multicanaishd.boats
 0.0.0.0 netcinegb.lat
+0.0.0.0 https://designer10.com
+0.0.0.0 https://brasilsofts.com/loja/
+0.0.0.0 https://rochasoftweres.com/
+0.0.0.0 https://kingsoftweres.com
+0.0.0.0 https://www.dfgames.com.br/
+0.0.0.0 https://softweresprime.com.br/
+0.0.0.0 https://softweresbrasil.com/
+0.0.0.0 https://dksotweres.com/
+0.0.0.0 https://mbmti.com/
+0.0.0.0 https://www.canalsoftweres.com/
+0.0.0.0 https://lojinhadosoftwere.com/
+0.0.0.0 https://pixz.com.br/
