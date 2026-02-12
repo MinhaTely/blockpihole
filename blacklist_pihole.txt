@@ -70195,3 +70195,17 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 canaistop.shop
 0.0.0.0 hangarfilmes.com
 0.0.0.0 megaflixapp.download
+0.0.0.0 multicanaishd.de
+0.0.0.0 canaistop.shop
+0.0.0.0 hangarfilmes.com
+0.0.0.0 megaflixapp.download
+0.0.0.0 multicanaishd.best
+0.0.0.0 multicanaistv.click
+0.0.0.0 cinevision.bond
+0.0.0.0 nossoplayeronlinehd.site
+0.0.0.0 seriesflixtv2.sbs
+0.0.0.0 netcinepa.lat
+0.0.0.0 superflixapi.cv
+0.0.0.0 seriesflixhd.fun
+0.0.0.0 seriesflixhd.help
+0.0.0.0 seriesonline.ws
