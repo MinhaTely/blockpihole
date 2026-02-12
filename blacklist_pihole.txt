@@ -70209,3 +70209,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 seriesflixhd.fun
 0.0.0.0 seriesflixhd.help
 0.0.0.0 seriesonline.ws
+0.0.0.0 atacadovapes.com
