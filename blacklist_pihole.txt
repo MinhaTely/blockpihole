@@ -70842,3 +70842,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 799.game
 0.0.0.0 78g77.com
 0.0.0.0 ninfomaniacas.blog
+0.0.0.0 traffik-up.com.br
