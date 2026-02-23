@@ -72252,3 +72252,15 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 portal46.zontyri.sbs
 0.0.0.0 m48y1ofqpq.cififitelavarav.info
 0.0.0.0 4iedog8xno.cififitelavarav.info
+0.0.0.0 encontre.us
+0.0.0.0 boraflix.one
+0.0.0.0 futemaxbr.tv
+0.0.0.0 pobreflix.company
+0.0.0.0 pobreflix.free
+0.0.0.0 pobreflix20.com
+0.0.0.0 pobreflixtv.space
+0.0.0.0 pobreflixtv.store
+0.0.0.0 topflixfilmes.net
+0.0.0.0 futemax.direct
+0.0.0.0 boraflix.bz
+0.0.0.0 pobreflix.social
