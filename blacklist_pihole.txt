@@ -72289,3 +72289,5 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 seriesflix.site
 0.0.0.0 multicanaishd.skin
 0.0.0.0 hyperflixtv.co
+0.0.0.0 ninfomaniacas.blog/
+0.0.0.0 ninfomaniacas.blog/xxx/isadora-cezar-menezes-gusmao/
