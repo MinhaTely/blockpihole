@@ -73524,3 +73524,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 rfvxz72dqw.kopurulovadivem.info
 0.0.0.0 k2h7m1v5q9.setamerijumos.info
 0.0.0.0 p1x7z4w8e3.setamerijumos.info
+0.0.0.0 bbbaovivo.blog
+0.0.0.0 assistirhd1.site
+0.0.0.0 encontrei.info
