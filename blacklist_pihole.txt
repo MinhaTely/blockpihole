@@ -75623,3 +75623,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 pp3.xkxkx.cc
 0.0.0.0 gg3.xkxkx.cc
 0.0.0.0 gg1.xkxkx.cc
+0.0.0.0 ipiptv.com.br
