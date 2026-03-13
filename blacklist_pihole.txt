@@ -75840,3 +75840,9 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 dellmxq.site
 0.0.0.0 geelim.com
 0.0.0.0 deibhll.cc
+0.0.0.0 lovapor.net
+0.0.0.0 mistervape.com
+0.0.0.0 mundodovaporofc.com
+0.0.0.0 evolutionvaper.com
+0.0.0.0 lojapodvape.com
+0.0.0.0 mundodosvapes.com
