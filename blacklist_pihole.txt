@@ -77231,3 +77231,15 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 biscoito777.bet
 0.0.0.0 fa-caipirinha777.bet
 0.0.0.0 luckypg777.bet
+0.0.0.0 moviesdvdr.co
+0.0.0.0 www.moviesdvdr.co
+0.0.0.0 megaflixdownload.com
+0.0.0.0 multicanaishd.homes
+0.0.0.0 netcinefb.lat
+0.0.0.0 superflix31.lol
+0.0.0.0 canaistop.pro
+0.0.0.0 canaistops.digital
+0.0.0.0 torrentdosfilmes1.xyz
+0.0.0.0 www.xfilmeshds.com.br
+0.0.0.0 xfilmeshds.com.br
+0.0.0.0 multicanaishd.autos
