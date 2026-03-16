@@ -75869,3 +75869,15 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 lojavaper.com
 0.0.0.0 omshop.com.br
 0.0.0.0 vitrinedovapor.com
+0.0.0.0 playvaper.catalog.kyte.com
+0.0.0.0 reinodovapor.com
+0.0.0.0 reinodovaporoficial.com
+0.0.0.0 reinodovaporofc.com
+0.0.0.0 sacivape.com
+0.0.0.0 tabacosbr.com
+0.0.0.0 tudovape.com
+0.0.0.0 universodovapor.com
+0.0.0.0 vapeinga.com
+0.0.0.0 www.vapeinga.club
+0.0.0.0 vapelandbr.com
+0.0.0.0 onpuffs.net
