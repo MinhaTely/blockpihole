@@ -78568,3 +78568,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 youcineapp.vip
 0.0.0.0 youcinebr.app
 0.0.0.0 youcinedl.com
+0.0.0.0 loftvapor.net
