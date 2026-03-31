@@ -79478,3 +79478,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 lb01.lardoce.sbs
 0.0.0.0 991.pickmy.uk
 0.0.0.0 pp1.pickmy.uk
+0.0.0.0 www.xfilmestorrenthd.com.br
+0.0.0.0 xfilmestorrenthd.com.br
+0.0.0.0 filmesdiarios.org
+0.0.0.0 multicanaishd.monster
