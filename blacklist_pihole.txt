@@ -80414,3 +80414,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 ip2288.com
 0.0.0.0 ip777ye.com
 0.0.0.0 ip777lll.com
+0.0.0.0 lpiptv.com.br
