@@ -82209,3 +82209,14 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 youciineapk.com.br
 0.0.0.0 youcinapkbr.com
 0.0.0.0 youcineapks.com.br
+0.0.0.0 multicanaishd.forum
+0.0.0.0 altosfilmes.com
+0.0.0.0 netcinetw.lat
+0.0.0.0 canaistop.world
+0.0.0.0 www.torrentfilmesx.com
+0.0.0.0 dezpila.one
+0.0.0.0 dreves.com.br
+0.0.0.0 eueleeascriancas.com.br
+0.0.0.0 tubastore.com.br
+0.0.0.0 xilften.blog
+0.0.0.0 itorrent.com.br
