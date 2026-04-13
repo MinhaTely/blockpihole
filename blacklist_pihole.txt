@@ -82245,3 +82245,5 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 zcvayg50st.mobuvosowicopu.info
 0.0.0.0 6xlhzf7dlm.mobuvosowicopu.info
 0.0.0.0 vmwqi2dshd.siconofuresad.info
+0.0.0.0 atacadovapes.com
+0.0.0.0 atacadosvape.com
