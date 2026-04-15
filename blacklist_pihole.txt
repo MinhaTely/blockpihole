@@ -82952,3 +82952,4 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 netcinebr.lat
 0.0.0.0 superflix34.lol
 0.0.0.0 tvonlinehds.com
+0.0.0.0 painelamsocial.com
