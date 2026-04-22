@@ -83944,3 +83944,17 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 kk-disney777.vip
 0.0.0.0 criar-777.vip
 0.0.0.0 surfboard777.vip
+0.0.0.0 seriesflix.study
+0.0.0.0 mixtoptv.com.br
+0.0.0.0 multicanaisfutebol.com
+0.0.0.0 www.galerabr.com
+0.0.0.0 ninjastorrents.net
+0.0.0.0 tvonline.mx
+0.0.0.0 multicanaishd.vu
+0.0.0.0 topsports.sbs
+0.0.0.0 nerdfilmes.net
+0.0.0.0 parabaixar.com
+0.0.0.0 multicanaishd.cafe
+0.0.0.0 multicanaishd.fyi
+0.0.0.0 netcinevn.lat
+0.0.0.0 superflix35.lol
