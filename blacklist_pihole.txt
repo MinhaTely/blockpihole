@@ -233,3 +233,4 @@
 0.0.0.0 stride.markets
 0.0.0.0 polymarket.com
 0.0.0.0 kalshi.com
+0.0.0.0 novig.com
