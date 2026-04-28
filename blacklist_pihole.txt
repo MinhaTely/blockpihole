@@ -715,3 +715,13 @@
 0.0.0.0 vd1.vocesabia.online
 0.0.0.0 g6.teckiall.cc
 0.0.0.0 g7.teckiall.cc
+0.0.0.0 megaflixx.com.br
+0.0.0.0 multicanaishd.uno
+0.0.0.0 netcinevu.lat
+0.0.0.0 assistironlinee.org
+0.0.0.0 series24.shop
+0.0.0.0 seriesflix.cyou
+0.0.0.0 cinevisionplus.com.br
+0.0.0.0 multicanaishd.fan
+0.0.0.0 multicanaishd.food
+0.0.0.0 seriesflixhd.sbs
