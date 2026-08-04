@@ -26705,7 +26705,6 @@
 0.0.0.0 vivoiptv.com.br
 0.0.0.0 vivospfibra.com
 0.0.0.0 vivu88.moi
-0.0.0.0 vixe.bet
 0.0.0.0 vizer.asia
 0.0.0.0 vizer.baby
 0.0.0.0 vizer.beer
