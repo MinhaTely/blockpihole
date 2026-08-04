@@ -13566,6 +13566,7 @@
 0.0.0.0 familiapg-dk.bet
 0.0.0.0 familiapg.net
 0.0.0.0 famitour.com
+0.0.0.0 famosas.vip
 0.0.0.0 fan-hms.bet
 0.0.0.0 fanaticsmarkets.com
 0.0.0.0 fanebecanedupivi.info
@@ -20923,6 +20924,7 @@
 0.0.0.0 mix34.ddns.net
 0.0.0.0 mixbetpg.com
 0.0.0.0 mixbetvip.bet
+0.0.0.0 mixputaria.com
 0.0.0.0 mixrecargasd.com
 0.0.0.0 mj0o9t1ujg64.kst14.click
 0.0.0.0 mj2yplfa3j08.iatech.fun
@@ -23902,6 +23904,7 @@
 0.0.0.0 romano777.com
 0.0.0.0 romanobet.com
 0.0.0.0 romanobet.it.com
+0.0.0.0 rome.com
 0.0.0.0 rompi777.com
 0.0.0.0 rondobet.com
 0.0.0.0 roobet2.com
@@ -26578,6 +26581,7 @@
 0.0.0.0 vidavegas9.com
 0.0.0.0 vidavegas9000.com
 0.0.0.0 vide777.bet
+0.0.0.0 videosdesexo.xxx
 0.0.0.0 vidropg.com
 0.0.0.0 vierbet.com
 0.0.0.0 vigor777.com
