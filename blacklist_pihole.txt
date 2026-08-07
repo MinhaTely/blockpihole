@@ -11598,7 +11598,9 @@
 0.0.0.0 canaistops.guru
 0.0.0.0 canaistops.world
 0.0.0.0 canaistoptv.digital
+0.0.0.0 canaistoptv.live
 0.0.0.0 canaistoptv.shop
+0.0.0.0 canaistoptv.top
 0.0.0.0 canaistoptv.world
 0.0.0.0 canaistoptv.xyz
 0.0.0.0 cancer-777.bet
@@ -24613,6 +24615,7 @@
 0.0.0.0 seriesflix.cyou
 0.0.0.0 seriesflixhd.best
 0.0.0.0 seriesflixhd.hair
+0.0.0.0 seriesflixhd.ink
 0.0.0.0 seriesflixhd.lol
 0.0.0.0 seriesflixhd.sbs
 0.0.0.0 seriesflixhub.biz
@@ -25576,6 +25579,7 @@
 0.0.0.0 themovietv.org
 0.0.0.0 theone777.bet
 0.0.0.0 thepiano777.bet
+0.0.0.0 thepiratefilmes.net
 0.0.0.0 thepokiescasino.bet
 0.0.0.0 thepokiesnet.bet
 0.0.0.0 thesky.live
@@ -27739,6 +27743,7 @@
 0.0.0.0 www.appunitv.online
 0.0.0.0 www.asgoal.sbs
 0.0.0.0 www.atacadosbr.com
+0.0.0.0 www.baixandoviatorrent.com
 0.0.0.0 www.baixarfilmeshd.xyz
 0.0.0.0 www.bar222bet.com
 0.0.0.0 www.bb5mpg.com
@@ -27836,6 +27841,7 @@
 0.0.0.0 www.cineflix.pro
 0.0.0.0 www.cinegato.tv
 0.0.0.0 www.cinegatohd.com
+0.0.0.0 www.cinevisionapp.com.br
 0.0.0.0 www.cinevisionplay.biz
 0.0.0.0 www.cj1.com.br
 0.0.0.0 www.dgd.bet
@@ -28144,6 +28150,7 @@
 0.0.0.0 www.xbrtorrent.com.br
 0.0.0.0 www.xbrtorrent.net
 0.0.0.0 www.xbrtorrents.com.br
+0.0.0.0 www.xfilmes.cc
 0.0.0.0 www.xfilmestorrents.org
 0.0.0.0 www.xfilmesviatorrents.com.br
 0.0.0.0 www.xilften.fr
