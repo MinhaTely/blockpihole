@@ -39238,6 +39238,8 @@
 0.0.0.0 www.vizertv.study
 0.0.0.0 www.voj8.online
 0.0.0.0 www.watchfree123movies.com
+0.0.0.0 www.winux.is
+0.0.0.0 www.winuxos.com
 0.0.0.0 www.worldbet10.com
 0.0.0.0 www.xbrfilmes.net
 0.0.0.0 www.xbrfilmestorrent.net
