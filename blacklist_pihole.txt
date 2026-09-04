@@ -38662,6 +38662,7 @@
 0.0.0.0 www.365jogos.org
 0.0.0.0 www.3bbsbet.com
 0.0.0.0 www.40bet444wincc.com
+0.0.0.0 www.444winbetcc.com
 0.0.0.0 www.522bet88.com
 0.0.0.0 www.535bet.com
 0.0.0.0 www.54z2mu.pro
@@ -38823,6 +38824,8 @@
 0.0.0.0 www.baixarfilmeshd.xyz
 0.0.0.0 www.bar222bet.com
 0.0.0.0 www.bb5mpg.com
+0.0.0.0 www.bbdragon.bet
+0.0.0.0 www.bbtiger.bet
 0.0.0.0 www.bbw13.bet
 0.0.0.0 www.bet3333k.com
 0.0.0.0 www.bet555.net
@@ -38838,6 +38841,7 @@
 0.0.0.0 www.betkfc.bet
 0.0.0.0 www.betweb.app
 0.0.0.0 www.bigeletronicos.com.br
+0.0.0.0 www.bigpanda.bet
 0.0.0.0 www.bkbet.games
 0.0.0.0 www.bkbet35.com
 0.0.0.0 www.bkbet36.com
@@ -38922,13 +38926,17 @@
 0.0.0.0 www.cinevisionplay.biz
 0.0.0.0 www.cj1.com.br
 0.0.0.0 www.comprarunitvoficial.com.br
+0.0.0.0 www.cv666.bet
 0.0.0.0 www.dgd.bet
+0.0.0.0 www.dreamexch24.bet
 0.0.0.0 www.duosat.online
 0.0.0.0 www.eaicloudoficial.com
 0.0.0.0 www.eaitv.com.br
 0.0.0.0 www.eletronicshop.link
 0.0.0.0 www.eletronicshop.uk
 0.0.0.0 www.f-movies.org
+0.0.0.0 www.fc188.bet
+0.0.0.0 www.fg880.me
 0.0.0.0 www.filmesetorrents.com
 0.0.0.0 www.filmesviatorrents.xyz
 0.0.0.0 www.flixtorrents.xyz
