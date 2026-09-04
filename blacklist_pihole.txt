@@ -878,6 +878,7 @@
 0.0.0.0 123movies123.co
 0.0.0.0 123movies123.org
 0.0.0.0 123movies2018.com
+0.0.0.0 123movies21.me
 0.0.0.0 123movies2go.com
 0.0.0.0 123movies2you.com
 0.0.0.0 123movies4.xyz
@@ -925,13 +926,18 @@
 0.0.0.0 123moviesgo.info
 0.0.0.0 123moviesgo.top
 0.0.0.0 123moviesgogo.com
+0.0.0.0 123movieshall.com
+0.0.0.0 123movieshd.hair
 0.0.0.0 123movieshdgo.com
 0.0.0.0 123movieshdtv.co
 0.0.0.0 123movieshub.cv
 0.0.0.0 123movieshub.su
 0.0.0.0 123movieshub.website
+0.0.0.0 123movieslink.com
 0.0.0.0 123movieslive.top
 0.0.0.0 123moviesmix.com
+0.0.0.0 123moviesnp.com
+0.0.0.0 123moviesonl.me
 0.0.0.0 123moviesonline.live
 0.0.0.0 123moviesott.com
 0.0.0.0 123moviespack.com
@@ -941,7 +947,9 @@
 0.0.0.0 123moviesto.info
 0.0.0.0 123moviesx.top
 0.0.0.0 123moviesy.xyz
+0.0.0.0 123movieszfree.day
 0.0.0.0 123movietoo.com
+0.0.0.0 123movieunlimited.com
 0.0.0.0 123moviewatch.lol
 0.0.0.0 123moviewe.com
 0.0.0.0 123moviezhd.com
@@ -12161,12 +12169,14 @@
 0.0.0.0 baixafilmeshdr.net
 0.0.0.0 baixafilmeshdr.org
 0.0.0.0 baixafilmestorrenthd.org
+0.0.0.0 baixandofilmehd.top
 0.0.0.0 baixandofilmeshd.org
 0.0.0.0 baixandofilmestorrent.com
 0.0.0.0 baixandofilmestorrent.net
 0.0.0.0 baixandofilmestorrents.com
 0.0.0.0 baixandofilmetorrent.com
 0.0.0.0 baixandofilmetorrents.com
+0.0.0.0 baixandoviatorrent.com
 0.0.0.0 baixarfilmebr.org
 0.0.0.0 baixarfilmecompletogratis.com
 0.0.0.0 baixarfilmehd-v1.net
@@ -12200,6 +12210,7 @@
 0.0.0.0 baixaryoucineapk.pro
 0.0.0.0 baixe.888game88.com
 0.0.0.0 baixefilmeseries.org
+0.0.0.0 baixefilmeseseries.org
 0.0.0.0 baixefilmeshds.com
 0.0.0.0 baixefilmeshds.org
 0.0.0.0 baixefilmesseries.com
@@ -13234,6 +13245,7 @@
 0.0.0.0 bfcmgy4dp.club
 0.0.0.0 bff.bet
 0.0.0.0 bff0ydt4vrsc.1cdn2604.online
+0.0.0.0 bfflix.world
 0.0.0.0 bflix-to.com
 0.0.0.0 bflix-tv.net
 0.0.0.0 bflix.at
@@ -15258,6 +15270,8 @@
 0.0.0.0 canais5.pro-canais.sbs
 0.0.0.0 canais6.pro-canais.sbs
 0.0.0.0 canaisaovivo.top
+0.0.0.0 canaisaovivotop.digital
+0.0.0.0 canaisaovivotop.world
 0.0.0.0 canaisaovivotop.xyz
 0.0.0.0 canaisonline.top
 0.0.0.0 canaisonlinetop.digital
@@ -15286,6 +15300,7 @@
 0.0.0.0 canaistoptv.top
 0.0.0.0 canaistoptv.world
 0.0.0.0 canaistoptv.xyz
+0.0.0.0 canaistvtop.live
 0.0.0.0 canal24h.net
 0.0.0.0 canalplay.vip
 0.0.0.0 canalplus07.com
@@ -15623,6 +15638,7 @@
 0.0.0.0 ccswzr07gr.kubitigesisogo.info
 0.0.0.0 ccuevana.cc
 0.0.0.0 ccuevana3.mov
+0.0.0.0 ccuevana3.sbs
 0.0.0.0 ccuipl.bet
 0.0.0.0 ccww.app
 0.0.0.0 ccww.bet
@@ -16590,6 +16606,7 @@
 0.0.0.0 cuevana.st
 0.0.0.0 cuevana.you
 0.0.0.0 cuevana03.cc
+0.0.0.0 cuevana22.com
 0.0.0.0 cuevana3.cl
 0.0.0.0 cuevana3.dad
 0.0.0.0 cuevana3.in.net
@@ -16676,6 +16693,7 @@
 0.0.0.0 curlingpg.org
 0.0.0.0 currant777.com
 0.0.0.0 cursocentral.online
+0.0.0.0 cursocomandoseletricos.com.br
 0.0.0.0 cursoforum.com.br
 0.0.0.0 cursopg.com
 0.0.0.0 cursoproxydngf.online
@@ -18746,6 +18764,7 @@
 0.0.0.0 filmefox.net
 0.0.0.0 filmehd.cc
 0.0.0.0 filmehdmoca.org
+0.0.0.0 filmehdsub.info
 0.0.0.0 filmekstra.com
 0.0.0.0 filmelacinema.net
 0.0.0.0 filmenoi-hd.net
@@ -19213,6 +19232,7 @@
 0.0.0.0 fulera-api.store
 0.0.0.0 fulleletronicos.com
 0.0.0.0 fulleletronicos.uk
+0.0.0.0 fullhdfilmcanavari.org
 0.0.0.0 fun009.bet
 0.0.0.0 fun1900.bet
 0.0.0.0 fun1933.bet
@@ -19278,6 +19298,7 @@
 0.0.0.0 futemax.bot
 0.0.0.0 futemax.boutique
 0.0.0.0 futemax.builders
+0.0.0.0 futemax.business
 0.0.0.0 futemax.camp
 0.0.0.0 futemax.career
 0.0.0.0 futemax.cfd
@@ -19301,6 +19322,9 @@
 0.0.0.0 futemax.family
 0.0.0.0 futemax.fast
 0.0.0.0 futemax.fit
+0.0.0.0 futemax.flights
+0.0.0.0 futemax.florist
+0.0.0.0 futemax.forex
 0.0.0.0 futemax.foundation
 0.0.0.0 futemax.frl
 0.0.0.0 futemax.garden
@@ -19308,22 +19332,27 @@
 0.0.0.0 futemax.hockey
 0.0.0.0 futemax.hot
 0.0.0.0 futemax.house
+0.0.0.0 futemax.international
 0.0.0.0 futemax.istanbul
 0.0.0.0 futemax.it
 0.0.0.0 futemax.kaufen
 0.0.0.0 futemax.lease
 0.0.0.0 futemax.living
 0.0.0.0 futemax.london
+0.0.0.0 futemax.love
 0.0.0.0 futemax.lt
+0.0.0.0 futemax.luxury
 0.0.0.0 futemax.mk
 0.0.0.0 futemax.net.co
 0.0.0.0 futemax.nexus
 0.0.0.0 futemax.ph
 0.0.0.0 futemax.photo
+0.0.0.0 futemax.pictures
 0.0.0.0 futemax.promo
 0.0.0.0 futemax.property
 0.0.0.0 futemax.qa
 0.0.0.0 futemax.reise
+0.0.0.0 futemax.rentals
 0.0.0.0 futemax.repair
 0.0.0.0 futemax.republican
 0.0.0.0 futemax.scot
@@ -19332,6 +19361,8 @@
 0.0.0.0 futemax.voto
 0.0.0.0 futemax.website
 0.0.0.0 futemax0.shop
+0.0.0.0 futemax01.com
+0.0.0.0 futemax02.com
 0.0.0.0 futemax1.biz
 0.0.0.0 futemax1.shop
 0.0.0.0 futemax1.work
@@ -19344,6 +19375,7 @@
 0.0.0.0 futemax4.biz
 0.0.0.0 futemaxbr.lat
 0.0.0.0 futemaxbr.lol
+0.0.0.0 futemaxbr.shop
 0.0.0.0 futemaxbr.store
 0.0.0.0 futemaxhd.com.br
 0.0.0.0 futemaxhd.my
@@ -19352,6 +19384,7 @@
 0.0.0.0 futemaxm.biz
 0.0.0.0 futemaxoficial.best
 0.0.0.0 futemaxoficial.lat
+0.0.0.0 futemaxoficial.sbs
 0.0.0.0 futemaxplay.com
 0.0.0.0 futemaxpr.org
 0.0.0.0 futemaxsp.app
@@ -21458,6 +21491,7 @@
 0.0.0.0 irqtbwbraozf.2cdn2604.online
 0.0.0.0 iru7of82gr.kufamonipuvutas.info
 0.0.0.0 irwin-casino.bet
+0.0.0.0 is123movies.live
 0.0.0.0 isacaninana.com
 0.0.0.0 ishmmrrxx8m4.cdnaabb1.top
 0.0.0.0 islamabade.com
@@ -26697,6 +26731,7 @@
 0.0.0.0 loiraburra.top
 0.0.0.0 loja-azrecarga.com
 0.0.0.0 loja777.fun
+0.0.0.0 lojaboxplay.com
 0.0.0.0 lojacelebrate-com-253.pages.dev
 0.0.0.0 lojacinecarga.com
 0.0.0.0 lojadarecarga.link
@@ -27495,6 +27530,7 @@
 0.0.0.0 megafilmes.quest
 0.0.0.0 megafilmeshd.life
 0.0.0.0 megafilmeshd.live
+0.0.0.0 megafilmeshd.men
 0.0.0.0 megafilmeshd.monster
 0.0.0.0 megafilmeshd.pw
 0.0.0.0 megafilmeshd.rest
@@ -27592,6 +27628,7 @@
 0.0.0.0 mestradopg.app
 0.0.0.0 mestradopg.com
 0.0.0.0 mestredoaz.click
+0.0.0.0 mestredoaz.com
 0.0.0.0 mestredosfilmes.top
 0.0.0.0 mestreinfo.info
 0.0.0.0 metal777.com
@@ -27912,6 +27949,7 @@
 0.0.0.0 moviedc.xyz
 0.0.0.0 moviedu.org
 0.0.0.0 movieenter.com
+0.0.0.0 moviefilms.org
 0.0.0.0 moviefix.org
 0.0.0.0 movieflixpro.com
 0.0.0.0 movieflixxx.com
@@ -28018,6 +28056,7 @@
 0.0.0.0 moviesneflix.com
 0.0.0.0 moviesnexus.com
 0.0.0.0 moviesonlineuk.com
+0.0.0.0 moviesononline.org
 0.0.0.0 moviesphoria.com
 0.0.0.0 moviesreactor.com
 0.0.0.0 moviesrealtime.com
@@ -28667,6 +28706,7 @@
 0.0.0.0 novomundo.live
 0.0.0.0 novoslots.bet
 0.0.0.0 nowcdn.online
+0.0.0.0 nowmoviesonline.com
 0.0.0.0 noz777.co
 0.0.0.0 noz777.me
 0.0.0.0 noz777.net
@@ -29313,6 +29353,7 @@
 0.0.0.0 osklen777.win
 0.0.0.0 osklens.bet
 0.0.0.0 osmelhorespainel.shop
+0.0.0.0 osmosefilmer.com
 0.0.0.0 osominfo.click
 0.0.0.0 ostras777.com
 0.0.0.0 osysmiopr53i.iatech.fun
@@ -29368,6 +29409,7 @@
 0.0.0.0 outubro8888.com
 0.0.0.0 overdogs.bet
 0.0.0.0 overflix.casa
+0.0.0.0 overflix.men
 0.0.0.0 overflix.monster
 0.0.0.0 overflix.party
 0.0.0.0 overflix.quest
@@ -30520,6 +30562,8 @@
 0.0.0.0 pobreflix.actor
 0.0.0.0 pobreflix.archi
 0.0.0.0 pobreflix.army
+0.0.0.0 pobreflix.bond
+0.0.0.0 pobreflix.buzz
 0.0.0.0 pobreflix.cards
 0.0.0.0 pobreflix.cat
 0.0.0.0 pobreflix.courses
@@ -30534,6 +30578,7 @@
 0.0.0.0 pobreflix.racing
 0.0.0.0 pobreflix.report
 0.0.0.0 pobreflix.sarl
+0.0.0.0 pobreflix.solutions
 0.0.0.0 pobreflix.you
 0.0.0.0 pobreflixhd.click
 0.0.0.0 pobreflixhd.homes
@@ -30574,6 +30619,7 @@
 0.0.0.0 pobreflixtv.lifestyle
 0.0.0.0 pobreflixtv.link
 0.0.0.0 pobreflixtv.living
+0.0.0.0 pobreflixtv.locker
 0.0.0.0 pobreflixtv.makeup
 0.0.0.0 pobreflixtv.moe
 0.0.0.0 pobreflixtv.motorcycles
@@ -30588,10 +30634,13 @@
 0.0.0.0 pobreflixtv.website
 0.0.0.0 pobreflixtv.yachts
 0.0.0.0 pobreflixtvon.com
+0.0.0.0 pobreflixtvon.net
 0.0.0.0 pobreflixtvon.org
 0.0.0.0 pobreflixtvplus.com
 0.0.0.0 pobreflixvideo.com
 0.0.0.0 pobreflixweb.net
+0.0.0.0 pobremuchacho.com
+0.0.0.0 pobretube.com
 0.0.0.0 pocoh.online
 0.0.0.0 podcastpg.bet
 0.0.0.0 podcastpg.co
@@ -30621,6 +30670,7 @@
 0.0.0.0 polvoty.net
 0.0.0.0 polymarket.com
 0.0.0.0 polyswipe.bet
+0.0.0.0 pomfy.online
 0.0.0.0 pondok88amp.com
 0.0.0.0 ponei777.com
 0.0.0.0 ponteproxy.online
@@ -31584,6 +31634,7 @@
 0.0.0.0 recargastvbox.com
 0.0.0.0 recargasunitv.online
 0.0.0.0 recargasunitv.store
+0.0.0.0 recargasunitvplay.shop
 0.0.0.0 recargasup.com
 0.0.0.0 recargasupa.com
 0.0.0.0 recargasupb.com
@@ -31642,6 +31693,7 @@
 0.0.0.0 redbusxs79.sos13march.lol
 0.0.0.0 redbusxs83.zhylero.cfd
 0.0.0.0 redbusxs84.ujalx31.click
+0.0.0.0 redecanais.af
 0.0.0.0 redecanais.at
 0.0.0.0 redecanais.capital
 0.0.0.0 redecanais.cymru
@@ -31649,17 +31701,28 @@
 0.0.0.0 redecanais.golf
 0.0.0.0 redecanais.in
 0.0.0.0 redecanais.it
+0.0.0.0 redecanais.loan
+0.0.0.0 redecanais.men
 0.0.0.0 redecanais.monster
 0.0.0.0 redecanais.nexus
+0.0.0.0 redecanais.org.im
 0.0.0.0 redecanais.party
 0.0.0.0 redecanais.pics
+0.0.0.0 redecanais.pk
 0.0.0.0 redecanais.plus
 0.0.0.0 redecanais.quest
 0.0.0.0 redecanais.st
+0.0.0.0 redecanais.surf
+0.0.0.0 redecanais.tv.in
 0.0.0.0 redecanais.vision
+0.0.0.0 redecanais.wiki
+0.0.0.0 redecanais20.lat
+0.0.0.0 redecanaisbr.shop
+0.0.0.0 redecanaisflix.xyz
 0.0.0.0 redecanaishd.boats
 0.0.0.0 redecanaishd.club
 0.0.0.0 redecanaishd.homes
+0.0.0.0 redecanaishd.lifestyle
 0.0.0.0 redecanaishd.monster
 0.0.0.0 redecanaishd.onl
 0.0.0.0 redecanaishd.pw
@@ -31669,6 +31732,9 @@
 0.0.0.0 redecanaishd.website
 0.0.0.0 redecanaishd.work
 0.0.0.0 redecanaishd.works
+0.0.0.0 redecanaishd.world
+0.0.0.0 redecanaisiptv.xyz
+0.0.0.0 redecanaistv.af
 0.0.0.0 redecanaistv.asia
 0.0.0.0 redecanaistv.at
 0.0.0.0 redecanaistv.autos
@@ -31688,6 +31754,7 @@
 0.0.0.0 redecanaistv.ink
 0.0.0.0 redecanaistv.it
 0.0.0.0 redecanaistv.nexus
+0.0.0.0 redecanaistv.pk
 0.0.0.0 redecanaistv.sbs
 0.0.0.0 redecanaistv.skin
 0.0.0.0 redecanaistv.space
@@ -31698,6 +31765,7 @@
 0.0.0.0 redefilipenses.com
 0.0.0.0 redetoons.baby
 0.0.0.0 redetoons.cards
+0.0.0.0 redetoons.cc
 0.0.0.0 redetoons.com
 0.0.0.0 redetoons.com.br
 0.0.0.0 redetoons.de
@@ -31707,6 +31775,7 @@
 0.0.0.0 redetoons.space
 0.0.0.0 redetoons.store
 0.0.0.0 redetoonstv.baby
+0.0.0.0 redetoonstv.cc
 0.0.0.0 redetoonstv.top
 0.0.0.0 redflowers.bet
 0.0.0.0 redplayer.com.br
@@ -33079,6 +33148,7 @@
 0.0.0.0 snycjr40wz.tidimafelibafe.info
 0.0.0.0 so4lauihrs.kunepehahagiv.info
 0.0.0.0 so7.bet
+0.0.0.0 soap2day1.my
 0.0.0.0 soarflix.com
 0.0.0.0 soberanapg.com
 0.0.0.0 soberanaspg.com
@@ -34073,6 +34143,7 @@
 0.0.0.0 thepokiescasino.bet
 0.0.0.0 thepokiesnet.bet
 0.0.0.0 thesky.live
+0.0.0.0 thesugarfilm.com
 0.0.0.0 theunitv.com.br
 0.0.0.0 theunitvapp.pro
 0.0.0.0 theyocn.com
@@ -34246,6 +34317,7 @@
 0.0.0.0 tonycasino.bet
 0.0.0.0 tonydog.pro
 0.0.0.0 toobet.vip
+0.0.0.0 top-flix.video
 0.0.0.0 top.anthares.online
 0.0.0.0 top.pitpro.top
 0.0.0.0 top26.cdnjato.top
@@ -35027,11 +35099,13 @@
 0.0.0.0 unitvnetwork.org
 0.0.0.0 unitvoficial.org
 0.0.0.0 unitvoficial.xyz
+0.0.0.0 unitvonline.shop
 0.0.0.0 unitvpainel.com.br
 0.0.0.0 unitvparatodos.com
 0.0.0.0 unitvpay.com
 0.0.0.0 unitvplano.shop
 0.0.0.0 unitvplanos1.shop
+0.0.0.0 unitvplay.com.br
 0.0.0.0 unitvplay.online
 0.0.0.0 unitvpllanoos.shop
 0.0.0.0 unitvpremium.io
@@ -35041,6 +35115,7 @@
 0.0.0.0 unitvpro.tv.br
 0.0.0.0 unitvprooficial.net
 0.0.0.0 unitvproooo.com.br
+0.0.0.0 unitvrecarga.app.br
 0.0.0.0 unitvrecarga.digital
 0.0.0.0 unitvrecarga.lat
 0.0.0.0 unitvrecarga.space
@@ -35732,6 +35807,7 @@
 0.0.0.0 vizer.it.com
 0.0.0.0 vizer.life
 0.0.0.0 vizer.lol
+0.0.0.0 vizer.men
 0.0.0.0 vizer.mom
 0.0.0.0 vizer.monster
 0.0.0.0 vizer.pw
@@ -35739,6 +35815,7 @@
 0.0.0.0 vizer.rest
 0.0.0.0 vizer.sbs
 0.0.0.0 vizer.top
+0.0.0.0 vizer.win
 0.0.0.0 vizerflix.lat
 0.0.0.0 vizero.buzz
 0.0.0.0 vizertv.autos
@@ -37350,6 +37427,7 @@
 0.0.0.0 www.unitvplay.online
 0.0.0.0 www.utbet.casino
 0.0.0.0 www.uvwebs.org
+0.0.0.0 www.viatorrent.net
 0.0.0.0 www.vizer.quest
 0.0.0.0 www.vizertv.autos
 0.0.0.0 www.vizertv.beauty
@@ -37960,11 +38038,14 @@
 0.0.0.0 youcineapk.cc
 0.0.0.0 youcineapk.site
 0.0.0.0 youcineapk.xyz
+0.0.0.0 youcineapkbaixar.pro
 0.0.0.0 youcineapkbox.com
 0.0.0.0 youcineapkhd.com
+0.0.0.0 youcineapkk.com
 0.0.0.0 youcineapkmod.net
 0.0.0.0 youcineapp.com.br
 0.0.0.0 youcineapp.org
+0.0.0.0 youcinebaixarapk.com
 0.0.0.0 youcinebr.xyz
 0.0.0.0 youcinedl.app
 0.0.0.0 youcinedl.com.br
