@@ -16386,6 +16386,7 @@
 0.0.0.0 corvoty.net
 0.0.0.0 corvoty.vip
 0.0.0.0 cosmic777.com
+0.0.0.0 cosmiclove-movie.com
 0.0.0.0 cosmicpg.com
 0.0.0.0 cotisefinupoj.info
 0.0.0.0 counter777.com
@@ -17079,6 +17080,7 @@
 0.0.0.0 dezpila.pics
 0.0.0.0 dezpila.promo
 0.0.0.0 dezpila.quest
+0.0.0.0 dezpila.singles
 0.0.0.0 dezpila.study
 0.0.0.0 dezpila.world
 0.0.0.0 dezplay.online
@@ -18767,6 +18769,8 @@
 0.0.0.0 filmehdsub.info
 0.0.0.0 filmekstra.com
 0.0.0.0 filmelacinema.net
+0.0.0.0 filmele-hd.net
+0.0.0.0 filmenlanguedoc.net
 0.0.0.0 filmenoi-hd.net
 0.0.0.0 filmenoisubtitrate.eu
 0.0.0.0 filmenvf.com
@@ -18805,6 +18809,7 @@
 0.0.0.0 filmesviatorrents.xyz
 0.0.0.0 filmesvideozer.net
 0.0.0.0 filmeszone1.site
+0.0.0.0 filmetorrents.online
 0.0.0.0 filmevip.com
 0.0.0.0 filmfox.org
 0.0.0.0 filmize.pro
@@ -28157,6 +28162,7 @@
 0.0.0.0 multicanaishd.capital
 0.0.0.0 multicanaishd.chat
 0.0.0.0 multicanaishd.cheap
+0.0.0.0 multicanaishd.church
 0.0.0.0 multicanaishd.date
 0.0.0.0 multicanaishd.enterprises
 0.0.0.0 multicanaishd.fan
@@ -32879,11 +32885,13 @@
 0.0.0.0 seriesflixhd.ink
 0.0.0.0 seriesflixhd.lol
 0.0.0.0 seriesflixhd.sbs
+0.0.0.0 seriesflixhd.win
 0.0.0.0 seriesflixhd.ws
 0.0.0.0 seriesflixhub.biz
 0.0.0.0 seriesflixhub.com
 0.0.0.0 seriesflixon.biz
 0.0.0.0 seriesflixon.com
+0.0.0.0 seriesflixon.org
 0.0.0.0 seriesflixonline.biz
 0.0.0.0 seriesflixplay.com
 0.0.0.0 seriesflixtv.se
@@ -33645,9 +33653,11 @@
 0.0.0.0 superflix41.lol
 0.0.0.0 superflix42.lol
 0.0.0.0 superflix43.lol
+0.0.0.0 superflix44.lol
 0.0.0.0 superflixapi.fit
 0.0.0.0 superflixapi.online
 0.0.0.0 superflixapi.rest
+0.0.0.0 superflixapi.sbs
 0.0.0.0 supergame02.win
 0.0.0.0 supergol.art
 0.0.0.0 supergold.monster
